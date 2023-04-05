@@ -42,6 +42,8 @@ Unlike many CBT apps, it's fairly unbiased in what you use it for; it doesn't as
 to do depression-specific CBT exercises. That makes it fairly quick and discreet to use, especially in a public
 setting.
 
+CHANGE
+
 ![screenshot](https://i.imgur.com/64Cpmpm.png)
 
 ## How Quirk Supports Itself
